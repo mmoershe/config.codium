@@ -1,1 +1,9 @@
+catppuccin.catppuccin-vsc
+catppuccin.catppuccin-vsc-icons
 dracula-theme.theme-dracula
+ibm.output-colorizer
+ms-python.debugpy
+ms-python.python
+vscodevim.vim
+vspacecode.whichkey
+wilfriedago.vscode-symbols-icon-theme

@@ -1,3 +1,13 @@
 {
-    "workbench.colorTheme": "Dracula Theme"
+    "workbench.colorTheme": "Dracula Theme",
+    "workbench.iconTheme": "symbols",
+    "workbench.tree.indent": 20,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.fontSize": 18,
+    "editor.fontFamily": "'JetBrainsMono NF', 'Droid Sans Mono', 'monospace', monospace",
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.duration": 350,
+    "vim.highlightedyank.color": "rgba(189, 147, 249, 0.7)",
+    "vim.useSystemClipboard": true
 }
