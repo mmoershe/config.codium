@@ -14,5 +14,7 @@
     "editor.cursorBlinking": "expand",
     "terminal.integrated.smoothScrolling": true,
     "editor.cursorSmoothCaretAnimation": "on",
-    "keyboard.dispatch": "keyCode"
+    "keyboard.dispatch": "keyCode",
+    "explorer.confirmDragAndDrop": false,
+    "editor.wordWrap": "on"
 }
